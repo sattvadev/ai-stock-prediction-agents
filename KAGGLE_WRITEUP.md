@@ -166,7 +166,7 @@ The system demonstrates that multi-agent architectures can deliver production-gr
 
 ## Code Repository
 
-**GitHub**: [Repository URL - Make public before submission]
+**GitHub**: https://github.com/sattvadev/ai-stock-prediction-agents
 
 **Jupyter Notebook**: `notebooks/kaggle_submission_complete.ipynb` - Complete demonstration with live analysis
 
